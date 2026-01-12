@@ -24,7 +24,7 @@ This project analyzes factors affecting students’ academic performance, includ
 - Based on the findings, schools may consider providing additional test preparation support for targeted student groups to improve overall academic performance.
 
 ## Files
-- `students_academic_performance_dataset.xlsx`
+- [Download dataset](data/students_academic_performance_dataset.xlsx)
 
 ## What I Learned
 - Cleaning and structuring data in Excel
